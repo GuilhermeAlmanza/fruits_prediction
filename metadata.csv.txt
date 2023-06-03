@@ -1,0 +1,11 @@
+Image ID,Fruit Name,Color,Shape,Size,Background
+0,Apple,Red,Round,Medium,White/Black
+1,Orange,Orange,Round,Medium,White/Black
+2,Persimmon,Orange,Round,Medium,White/Black
+3,Pear,Green,Round,Medium,White/Black
+4,Papaya,Yellow,Round,Medium,White/Black
+5,Mango,Yellow/Red,Round,Medium,White/Black
+6,Guava,Green,Round,Medium,White/Black
+7,Peach,Red,Round,Medium,White/Black
+8,Banana,Yellow,Elongated,Medium,White/Black
+9,Tomato,Red,Round,Medium,White/Black
